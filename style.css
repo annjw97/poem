@@ -1,0 +1,42 @@
+*{
+  background-color: rgb(21, 41, 171);
+  color: rgb(56, 213, 255);
+  text-align: center;
+  margin-left: 75px;
+  margin-right: 75px;
+
+
+}
+
+#title{
+  text-decoration: underline;
+  font-size: 40px;
+}
+
+#author{
+color: white;
+}
+
+#snow{
+  font-family: 'Cedarville Cursive', cursive;
+  font-size: 24px;
+
+  background-color: white;
+
+  border-radius: 25px;
+  border: 2px solid white;
+  border-radius: center;
+
+/*  text-align: justify;
+  margin-left: 600px;
+  margin-right: 600px;
+  padding-left: 150px;
+  padding-right: 150px;
+  */
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#footer{
+  text-align: left;
+}
