@@ -1,11 +1,12 @@
+body{
+  background-image: linear-gradient(to bottom, #1758ff, #ffe200);
+}
+
 *{
-  background-color: rgb(21, 41, 171);
   color: rgb(56, 213, 255);
   text-align: center;
   margin-left: 75px;
   margin-right: 75px;
-
-
 }
 
 #title{
